@@ -1,6 +1,7 @@
+# The Signature Kernel Scoring Rule in Probabilistic Weather Forecasting
 This repository contains three sections, Model Training, Deterministic Scorecard, and Probabilistic Scorecard.
 
-1. Model Training
+## Model Training
 
 This section contains the training procedures and results for signature kernel patch training on ERA5 reanalysis 64x32.
 
@@ -10,7 +11,7 @@ To recacalculate Training and Evaluation, run the run.sh and runEvaluation.sh re
 
 Each model may take up to 48 hours to run, with most taking under 24 hours, and evaluation taking up to 2 hours on Warwick HPC clusters. 
 
-2. Deterministic ScoreCard
+## Deterministic ScoreCard
 
 Data is stored in FUXICard, IFSCard, and Newresults.
 
@@ -22,7 +23,7 @@ To recalculate WeatherBench data calculations run WeatherBenchcalls.ipynb.
 
 To recalculate all data for this scorecard, it may take ~1.5-2 hours on an individual computer.
 
-3. Probabilistic ScoreCard
+## Probabilistic ScoreCard
 
 Data is stored in WeatherData and Signature folders.
 
