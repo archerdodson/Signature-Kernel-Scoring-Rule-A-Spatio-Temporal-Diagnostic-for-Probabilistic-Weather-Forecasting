@@ -1,5 +1,5 @@
 # The Signature Kernel Scoring Rule in Probabilistic Weather Forecasting
-This repository contains three sections, Model Training, Deterministic Scorecard, and Probabilistic Scorecard.
+This repository contains three sections, Model Training, Deterministic Scorecard, and Probabilistic Scorecard. The current manuscript can be read in Diagnositics_Signature_Score.pdf.
 
 ## Model Training
 
