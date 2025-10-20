@@ -1,5 +1,5 @@
 # Signature Kernel Scoring Rule as Spatio-Temporal Diagnostic for Probabilistic Forecasting
-This repository contains three sections, Model Training, Deterministic Scorecard, and Probabilistic Scorecard. The current manuscript can be read in Paper_Draft_Clean__TMLR_.pdf.
+This repository contains three sections, Model Training, Deterministic Scorecard, and Probabilistic Scorecard. The current manuscript can be read in Paper_Draft_Clean__TMLR_.pdf. A previous version is available as Diagnostics_Signature_Score.pdf.
 
 ## Model Training
 
